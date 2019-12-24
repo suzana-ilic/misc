@@ -18,5 +18,9 @@
 
 # Exploratory lexicon analysis
 
+["Depeche Mood: a Lexicon for Emotion Analysis from Crowd Annotated News"](https://www.aclweb.org/anthology/P14-2070/) by Jacopo Staiano, Marco Guerini; published in Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers).
+
+*A highcoverage and high-precision lexicon of roughly 37,000 terms automatically annotated with emotion scores.*
+
 <p align="left">
-  <img src="https://github.com/suzana-ilic/misc/blob/master/images/lexicon.png" width="600"></p>
+  <img src="https://github.com/suzana-ilic/misc/blob/master/images/lexicon.png" width="800"></p>
