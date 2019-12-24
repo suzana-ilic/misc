@@ -1,4 +1,4 @@
-# Clean tweets: Text pre-processing cheat sheet
+# Clean tweets: Text pre-processing
 
 1. Frequency counts of tokens
 2. Replace everything except alphanumeric characters, whitespace and periods
@@ -10,3 +10,8 @@
 8. Replace punctuation
 9. Replace a token with another token
 10. Pandas
+
+# Basic plotting with matplotlib and seaborn
+
+<p align="left">
+  <img src="https://github.com/suzana-ilic/misc/blob/master/plots.png" width="600"></p>
