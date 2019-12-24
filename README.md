@@ -15,3 +15,8 @@
 
 <p align="left">
   <img src="https://github.com/suzana-ilic/misc/blob/master/plots.png" width="600"></p>
+
+# Exploratory lexicon analysis
+
+<p align="left">
+  <img src="https://github.com/suzana-ilic/misc/blob/master/lexicon.png" width="600"></p>
