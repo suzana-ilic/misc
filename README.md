@@ -14,9 +14,9 @@
 # Basic plotting with matplotlib and seaborn
 
 <p align="left">
-  <img src="https://github.com/suzana-ilic/misc/blob/master/plots.png" width="600"></p>
+  <img src="https://github.com/suzana-ilic/misc/blob/master/images/plots.png" width="600"></p>
 
 # Exploratory lexicon analysis
 
 <p align="left">
-  <img src="https://github.com/suzana-ilic/misc/blob/master/lexicon.png" width="600"></p>
+  <img src="https://github.com/suzana-ilic/misc/blob/master/images/lexicon.png" width="600"></p>
